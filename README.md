@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/car.png">
+    <img src="/public/car.png">
 </div>
 
 <div align="center">
