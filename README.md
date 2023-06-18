@@ -26,7 +26,7 @@
     <H3>(A) Descripción</H3>
     <p>
         Este proyecto tiene la finalidad de registrar los datos del cliente, datos de su vehículo y escoger el o los servicio(s) que desee que se le aplique a su vehiculo, ya con esta informacion se genera la orden de trabajo con todos los datos ingreados y se regista la fecha y hora de entrega. También permite generar una nueva orden y si es necesario regresar a cualquier paso
-        anterior para realizar cualquier modificación. Está comuesto por los siguientes componentes:
+        anterior para realizar cualquier modificación. Está compuesto por los siguientes componentes:
     </p>
     <ol>
         <li>Componente principal (index.js) </li> 
